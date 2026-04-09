@@ -15,6 +15,7 @@ body{
     cursor: pointer;
 }
     nav a{color:blue; text-decoration:none;font-weight:bold;text-align:center;}
+    nav a:hover{color:red}
          
 h1{
     color:black;
@@ -32,4 +33,5 @@ h2,h3{
     color:black;
     font-family: bold;
     text-align: left;}
+    footer{display:flex;text-align:center;justify-content:space-around;padding:20px;backgound:grey;color:white;padding:20px
     
